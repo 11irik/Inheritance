@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inheritance", "inheritance\inheritance.csproj", "{AB0D0687-D895-466C-BD61-0082D57B540E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inheritanceTests", "inheritanceTests\inheritanceTests.csproj", "{73BFB102-F6FA-4A6C-ACD1-9F771BFA5223}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB0D0687-D895-466C-BD61-0082D57B540E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB0D0687-D895-466C-BD61-0082D57B540E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB0D0687-D895-466C-BD61-0082D57B540E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB0D0687-D895-466C-BD61-0082D57B540E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73BFB102-F6FA-4A6C-ACD1-9F771BFA5223}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73BFB102-F6FA-4A6C-ACD1-9F771BFA5223}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73BFB102-F6FA-4A6C-ACD1-9F771BFA5223}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73BFB102-F6FA-4A6C-ACD1-9F771BFA5223}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
