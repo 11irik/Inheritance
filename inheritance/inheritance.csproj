@@ -38,6 +38,8 @@
         <Reference Include="System.Xml" />
     </ItemGroup>
     <ItemGroup>
+        <Compile Include="Entities\Author.cs" />
+        <Compile Include="Entities\Book.cs" />
         <Compile Include="Entities\Man.cs" />
         <Compile Include="Entities\Student.cs" />
         <Compile Include="Program.cs" />
